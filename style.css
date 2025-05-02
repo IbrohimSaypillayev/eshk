@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    background: #FFCD38;
+}
+
+.kotta-dan-chikkina-div {
+    width: 850px;
+    height: 300px;
+    margin-top: 226px;
+    margin-left: 285px;
+    background-color: orange;
+    border: 5px solid black;
+    border-radius: 30px;
+    display: flex;
+}
+
+.eng-kichik-divla {
+    background-color: black;
+    width: 221px;
+    height: 235px;
+    margin-top: 33px;
+    margin-left: 35px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1 {
+    background-color: black;
+    color: white;
+    margin-left: 70px ;
+}
+.zor-eshak{
+    margin-top: 200px ;
+    margin-right: 100px ;
+    background-color: black;
+    color: white;
+}
